@@ -1,0 +1,1026 @@
+{
+  "1": {
+    "name": "rice",
+    "calories": 130
+  },
+  "2": {
+    "name": "eels on rice",
+    "calories": 180
+  },
+  "3": {
+    "name": "pilaf",
+    "calories": 140
+  },
+  "4": {
+    "name": "chicken-'n'-egg on rice",
+    "calories": 200
+  },
+  "5": {
+    "name": "pork cutlet on rice",
+    "calories": 250
+  },
+  "6": {
+    "name": "beef curry",
+    "calories": 220
+  },
+  "7": {
+    "name": "sushi",
+    "calories": 150
+  },
+  "8": {
+    "name": "chicken rice",
+    "calories": 190
+  },
+  "9": {
+    "name": "fried rice",
+    "calories": 210
+  },
+  "10": {
+    "name": "tempura bowl",
+    "calories": 280
+  },
+  "11": {
+    "name": "bibimbap",
+    "calories": 220
+  },
+  "12": {
+    "name": "toast",
+    "calories": 265
+  },
+  "13": {
+    "name": "croissant",
+    "calories": 406
+  },
+  "14": {
+    "name": "roll bread",
+    "calories": 270
+  },
+  "15": {
+    "name": "raisin bread",
+    "calories": 290
+  },
+  "16": {
+    "name": "chip butty",
+    "calories": 320
+  },
+  "17": {
+    "name": "hamburger",
+    "calories": 250
+  },
+  "18": {
+    "name": "pizza",
+    "calories": 266
+  },
+  "19": {
+    "name": "sandwiches",
+    "calories": 250
+  },
+  "20": {
+    "name": "udon noodle",
+    "calories": 130
+  },
+  "21": {
+    "name": "tempura udon",
+    "calories": 270
+  },
+  "22": {
+    "name": "soba noodle",
+    "calories": 140
+  },
+  "23": {
+    "name": "ramen noodle",
+    "calories": 190
+  },
+  "24": {
+    "name": "beef noodle",
+    "calories": 200
+  },
+  "25": {
+    "name": "tensin noodle",
+    "calories": 180
+  },
+  "26": {
+    "name": "fried noodle",
+    "calories": 220
+  },
+  "27": {
+    "name": "spaghetti",
+    "calories": 160
+  },
+  "28": {
+    "name": "Japanese-style pancake",
+    "calories": 230
+  },
+  "29": {
+    "name": "takoyaki",
+    "calories": 200
+  },
+  "30": {
+    "name": "gratin",
+    "calories": 180
+  },
+  "31": {
+    "name": "sauteed vegetables",
+    "calories": 80
+  },
+  "32": {
+    "name": "croquette",
+    "calories": 240
+  },
+  "33": {
+    "name": "grilled eggplant",
+    "calories": 60
+  },
+  "34": {
+    "name": "sauteed spinach",
+    "calories": 50
+  },
+  "35": {
+    "name": "vegetable tempura",
+    "calories": 160
+  },
+  "36": {
+    "name": "miso soup",
+    "calories": 35
+  },
+  "37": {
+    "name": "potage",
+    "calories": 90
+  },
+  "38": {
+    "name": "sausage",
+    "calories": 300
+  },
+  "39": {
+    "name": "oden",
+    "calories": 120
+  },
+  "40": {
+    "name": "omelet",
+    "calories": 150
+  },
+  "41": {
+    "name": "ganmodoki",
+    "calories": 180
+  },
+  "42": {
+    "name": "jiaozi",
+    "calories": 200
+  },
+  "43": {
+    "name": "stew",
+    "calories": 120
+  },
+  "44": {
+    "name": "teriyaki grilled fish",
+    "calories": 170
+  },
+  "45": {
+    "name": "fried fish",
+    "calories": 220
+  },
+  "46": {
+    "name": "grilled salmon",
+    "calories": 200
+  },
+  "47": {
+    "name": "salmon meuniere",
+    "calories": 230
+  },
+  "48": {
+    "name": "sashimi",
+    "calories": 120
+  },
+  "49": {
+    "name": "grilled pacific saury",
+    "calories": 180
+  },
+  "50": {
+    "name": "sukiyaki",
+    "calories": 250
+  },
+  "51": {
+    "name": "sweet and sour pork",
+    "calories": 260
+  },
+  "52": {
+    "name": "lightly roasted fish",
+    "calories": 160
+  },
+  "53": {
+    "name": "steamed egg hotchpotch",
+    "calories": 90
+  },
+  "54": {
+    "name": "tempura",
+    "calories": 220
+  },
+  "55": {
+    "name": "fried chicken",
+    "calories": 280
+  },
+  "56": {
+    "name": "sirloin cutlet",
+    "calories": 300
+  },
+  "57": {
+    "name": "nanbanzuke",
+    "calories": 180
+  },
+  "58": {
+    "name": "boiled fish",
+    "calories": 140
+  },
+  "59": {
+    "name": "seasoned beef with potatoes",
+    "calories": 190
+  },
+  "60": {
+    "name": "hambarg steak",
+    "calories": 220
+  },
+  "61": {
+    "name": "steak",
+    "calories": 270
+  },
+  "62": {
+    "name": "dried fish",
+    "calories": 290
+  },
+  "63": {
+    "name": "ginger pork saute",
+    "calories": 240
+  },
+  "64": {
+    "name": "spicy chili-flavored tofu",
+    "calories": 120
+  },
+  "65": {
+    "name": "yakitori",
+    "calories": 180
+  },
+  "66": {
+    "name": "cabbage roll",
+    "calories": 150
+  },
+  "67": {
+    "name": "omelet",
+    "calories": 150
+  },
+  "68": {
+    "name": "egg sunny-side up",
+    "calories": 140
+  },
+  "69": {
+    "name": "natto",
+    "calories": 200
+  },
+  "70": {
+    "name": "cold tofu",
+    "calories": 70
+  },
+  "71": {
+    "name": "egg roll",
+    "calories": 220
+  },
+  "72": {
+    "name": "chilled noodle",
+    "calories": 130
+  },
+  "73": {
+    "name": "stir-fried beef and peppers",
+    "calories": 180
+  },
+  "74": {
+    "name": "simmered pork",
+    "calories": 250
+  },
+  "75": {
+    "name": "boiled chicken and vegetables",
+    "calories": 140
+  },
+  "76": {
+    "name": "sashimi bowl",
+    "calories": 200
+  },
+  "77": {
+    "name": "sushi bowl",
+    "calories": 220
+  },
+  "78": {
+    "name": "fish-shaped pancake with bean jam",
+    "calories": 240
+  },
+  "79": {
+    "name": "shrimp with chill source",
+    "calories": 180
+  },
+  "80": {
+    "name": "roast chicken",
+    "calories": 220
+  },
+  "81": {
+    "name": "steamed meat dumpling",
+    "calories": 200
+  },
+  "82": {
+    "name": "omelet with fried rice",
+    "calories": 250
+  },
+  "83": {
+    "name": "cutlet curry",
+    "calories": 280
+  },
+  "84": {
+    "name": "spaghetti meat sauce",
+    "calories": 180
+  },
+  "85": {
+    "name": "fried shrimp",
+    "calories": 240
+  },
+  "86": {
+    "name": "potato salad",
+    "calories": 140
+  },
+  "87": {
+    "name": "green salad",
+    "calories": 50
+  },
+  "88": {
+    "name": "macaroni salad",
+    "calories": 160
+  },
+  "89": {
+    "name": "Japanese tofu and vegetable chowder",
+    "calories": 90
+  },
+  "90": {
+    "name": "pork miso soup",
+    "calories": 100
+  },
+  "91": {
+    "name": "chinese soup",
+    "calories": 70
+  },
+  "92": {
+    "name": "beef bowl",
+    "calories": 220
+  },
+  "93": {
+    "name": "kinpira-style sauteed burdock",
+    "calories": 120
+  },
+  "94": {
+    "name": "rice ball",
+    "calories": 170
+  },
+  "95": {
+    "name": "pizza toast",
+    "calories": 280
+  },
+  "96": {
+    "name": "dipping noodles",
+    "calories": 190
+  },
+  "97": {
+    "name": "hot dog",
+    "calories": 290
+  },
+  "98": {
+    "name": "french fries",
+    "calories": 312
+  },
+  "99": {
+    "name": "mixed rice",
+    "calories": 180
+  },
+  "100": {
+    "name": "goya chanpuru",
+    "calories": 150
+  },
+  "101": {
+    "name": "green curry",
+    "calories": 200
+  },
+  "102": {
+    "name": "okinawa soba",
+    "calories": 170
+  },
+  "103": {
+    "name": "mango pudding",
+    "calories": 150
+  },
+  "104": {
+    "name": "almond jelly",
+    "calories": 120
+  },
+  "105": {
+    "name": "jjigae",
+    "calories": 180
+  },
+  "106": {
+    "name": "dak galbi",
+    "calories": 220
+  },
+  "107": {
+    "name": "dry curry",
+    "calories": 210
+  },
+  "108": {
+    "name": "kamameshi",
+    "calories": 190
+  },
+  "109": {
+    "name": "rice vermicelli",
+    "calories": 140
+  },
+  "110": {
+    "name": "paella",
+    "calories": 220
+  },
+  "111": {
+    "name": "tanmen",
+    "calories": 180
+  },
+  "112": {
+    "name": "kushikatu",
+    "calories": 300
+  },
+  "113": {
+    "name": "yellow curry",
+    "calories": 210
+  },
+  "114": {
+    "name": "pancake",
+    "calories": 230
+  },
+  "115": {
+    "name": "champon",
+    "calories": 190
+  },
+  "116": {
+    "name": "crape",
+    "calories": 220
+  },
+  "117": {
+    "name": "tiramisu",
+    "calories": 350
+  },
+  "118": {
+    "name": "waffle",
+    "calories": 310
+  },
+  "119": {
+    "name": "rare cheese cake",
+    "calories": 320
+  },
+  "120": {
+    "name": "shortcake",
+    "calories": 340
+  },
+  "121": {
+    "name": "chop suey",
+    "calories": 150
+  },
+  "122": {
+    "name": "twice cooked pork",
+    "calories": 280
+  },
+  "123": {
+    "name": "mushroom risotto",
+    "calories": 180
+  },
+  "124": {
+    "name": "samul",
+    "calories": 160
+  },
+  "125": {
+    "name": "zoni",
+    "calories": 140
+  },
+  "126": {
+    "name": "french toast",
+    "calories": 260
+  },
+  "127": {
+    "name": "fine white noodles",
+    "calories": 150
+  },
+  "128": {
+    "name": "minestrone",
+    "calories": 90
+  },
+  "129": {
+    "name": "pot au feu",
+    "calories": 120
+  },
+  "130": {
+    "name": "chicken nugget",
+    "calories": 290
+  },
+  "131": {
+    "name": "namero",
+    "calories": 180
+  },
+  "132": {
+    "name": "french bread",
+    "calories": 270
+  },
+  "133": {
+    "name": "rice gruel",
+    "calories": 60
+  },
+  "134": {
+    "name": "broiled eel bowl",
+    "calories": 280
+  },
+  "135": {
+    "name": "clear soup",
+    "calories": 30
+  },
+  "136": {
+    "name": "yudofu",
+    "calories": 80
+  },
+  "137": {
+    "name": "mozuku",
+    "calories": 40
+  },
+  "138": {
+    "name": "inarizushi",
+    "calories": 200
+  },
+  "139": {
+    "name": "pork loin cutlet",
+    "calories": 300
+  },
+  "140": {
+    "name": "pork fillet cutlet",
+    "calories": 290
+  },
+  "141": {
+    "name": "chicken cutlet",
+    "calories": 280
+  },
+  "142": {
+    "name": "ham cutlet",
+    "calories": 270
+  },
+  "143": {
+    "name": "minced meat cutlet",
+    "calories": 290
+  },
+  "144": {
+    "name": "thinly sliced raw horsemeat",
+    "calories": 130
+  },
+  "145": {
+    "name": "bagel",
+    "calories": 250
+  },
+  "146": {
+    "name": "scone",
+    "calories": 340
+  },
+  "147": {
+    "name": "tortilla",
+    "calories": 220
+  },
+  "148": {
+    "name": "tacos",
+    "calories": 230
+  },
+  "149": {
+    "name": "nachos",
+    "calories": 300
+  },
+  "150": {
+    "name": "meat loaf",
+    "calories": 240
+  },
+  "151": {
+    "name": "scrambled egg",
+    "calories": 150
+  },
+  "152": {
+    "name": "rice gratin",
+    "calories": 200
+  },
+  "153": {
+    "name": "lasagna",
+    "calories": 180
+  },
+  "154": {
+    "name": "Caesar salad",
+    "calories": 150
+  },
+  "155": {
+    "name": "oatmeal",
+    "calories": 70
+  },
+  "156": {
+    "name": "fried pork dumplings served in soup",
+    "calories": 220
+  },
+  "157": {
+    "name": "oshiruko",
+    "calories": 160
+  },
+  "158": {
+    "name": "muffin",
+    "calories": 350
+  },
+  "159": {
+    "name": "popcorn",
+    "calories": 375
+  },
+  "160": {
+    "name": "cream puff",
+    "calories": 320
+  },
+  "161": {
+    "name": "doughnut",
+    "calories": 380
+  },
+  "162": {
+    "name": "apple pie",
+    "calories": 240
+  },
+  "163": {
+    "name": "parfait",
+    "calories": 280
+  },
+  "164": {
+    "name": "fried pork in scoop",
+    "calories": 290
+  },
+  "165": {
+    "name": "lamb kebabs",
+    "calories": 220
+  },
+  "166": {
+    "name": "dish consisting of stir-fried potato, eggplant and green pepper",
+    "calories": 120
+  },
+  "167": {
+    "name": "roast duck",
+    "calories": 300
+  },
+  "168": {
+    "name": "hot pot",
+    "calories": 180
+  },
+  "169": {
+    "name": "pork belly",
+    "calories": 330
+  },
+  "170": {
+    "name": "xiao long bao",
+    "calories": 200
+  },
+  "171": {
+    "name": "moon cake",
+    "calories": 350
+  },
+  "172": {
+    "name": "custard tart",
+    "calories": 300
+  },
+  "173": {
+    "name": "beef noodle soup",
+    "calories": 190
+  },
+  "174": {
+    "name": "pork cutlet",
+    "calories": 290
+  },
+  "175": {
+    "name": "minced pork rice",
+    "calories": 250
+  },
+  "176": {
+    "name": "fish ball soup",
+    "calories": 120
+  },
+  "177": {
+    "name": "oyster omelette",
+    "calories": 220
+  },
+  "178": {
+    "name": "glutinous oil rice",
+    "calories": 280
+  },
+  "179": {
+    "name": "trunip pudding",
+    "calories": 120
+  },
+  "180": {
+    "name": "stinky tofu",
+    "calories": 160
+  },
+  "181": {
+    "name": "lemon fig jelly",
+    "calories": 140
+  },
+  "182": {
+    "name": "khao soi",
+    "calories": 220
+  },
+  "183": {
+    "name": "Sour prawn soup",
+    "calories": 150
+  },
+  "184": {
+    "name": "Thai papaya salad",
+    "calories": 80
+  },
+  "185": {
+    "name": "boned, sliced Hainan-style chicken with marinated rice",
+    "calories": 230
+  },
+  "186": {
+    "name": "hot and sour, fish and vegetable ragout",
+    "calories": 180
+  },
+  "187": {
+    "name": "stir-fried mixed vegetables",
+    "calories": 90
+  },
+  "188": {
+    "name": "beef in oyster sauce",
+    "calories": 200
+  },
+  "189": {
+    "name": "pork satay",
+    "calories": 280
+  },
+  "190": {
+    "name": "spicy chicken salad",
+    "calories": 150
+  },
+  "191": {
+    "name": "noodles with fish curry",
+    "calories": 210
+  },
+  "192": {
+    "name": "Pork Sticky Noodles",
+    "calories": 240
+  },
+  "193": {
+    "name": "Pork with lemon",
+    "calories": 220
+  },
+  "194": {
+    "name": "stewed pork leg",
+    "calories": 300
+  },
+  "195": {
+    "name": "charcoal-boiled pork neck",
+    "calories": 280
+  },
+  "196": {
+    "name": "fried mussel pancakes",
+    "calories": 250
+  },
+  "197": {
+    "name": "Deep Fried Chicken Wing",
+    "calories": 320
+  },
+  "198": {
+    "name": "Barbecued red pork in sauce with rice",
+    "calories": 270
+  },
+  "199": {
+    "name": "Rice with roast duck",
+    "calories": 290
+  },
+  "200": {
+    "name": "Rice crispy pork",
+    "calories": 310
+  },
+  "201": {
+    "name": "Wonton soup",
+    "calories": 120
+  },
+  "202": {
+    "name": "Chicken Rice Curry With Coconut",
+    "calories": 240
+  },
+  "203": {
+    "name": "Crispy Noodles",
+    "calories": 280
+  },
+  "204": {
+    "name": "Egg Noodle In Chicken Yellow Curry",
+    "calories": 230
+  },
+  "205": {
+    "name": "coconut milk soup",
+    "calories": 180
+  },
+  "206": {
+    "name": "pho",
+    "calories": 160
+  },
+  "207": {
+    "name": "Hue beef rice vermicelli soup",
+    "calories": 190
+  },
+  "208": {
+    "name": "Vermicelli noodles with snails",
+    "calories": 200
+  },
+  "209": {
+    "name": "Fried spring rolls",
+    "calories": 220
+  },
+  "210": {
+    "name": "Steamed rice roll",
+    "calories": 150
+  },
+  "211": {
+    "name": "Shrimp patties",
+    "calories": 180
+  },
+  "212": {
+    "name": "ball shaped bun with pork",
+    "calories": 250
+  },
+  "213": {
+    "name": "Coconut milk-flavored crepes with shrimp and beef",
+    "calories": 230
+  },
+  "214": {
+    "name": "Small steamed savory rice pancake",
+    "calories": 160
+  },
+  "215": {
+    "name": "Glutinous Rice Balls",
+    "calories": 200
+  },
+  "216": {
+    "name": "loco moco",
+    "calories": 350
+  },
+  "217": {
+    "name": "haupia",
+    "calories": 120
+  },
+  "218": {
+    "name": "malasada",
+    "calories": 380
+  },
+  "219": {
+    "name": "laulau",
+    "calories": 220
+  },
+  "220": {
+    "name": "spam musubi",
+    "calories": 280
+  },
+  "221": {
+    "name": "oxtail soup",
+    "calories": 190
+  },
+  "222": {
+    "name": "adobo",
+    "calories": 250
+  },
+  "223": {
+    "name": "lumpia",
+    "calories": 200
+  },
+  "224": {
+    "name": "brownie",
+    "calories": 420
+  },
+  "225": {
+    "name": "churro",
+    "calories": 360
+  },
+  "226": {
+    "name": "jambalaya",
+    "calories": 220
+  },
+  "227": {
+    "name": "nasi goreng",
+    "calories": 240
+  },
+  "228": {
+    "name": "ayam goreng",
+    "calories": 280
+  },
+  "229": {
+    "name": "ayam bakar",
+    "calories": 260
+  },
+  "230": {
+    "name": "bubur ayam",
+    "calories": 150
+  },
+  "231": {
+    "name": "gulai",
+    "calories": 220
+  },
+  "232": {
+    "name": "laksa",
+    "calories": 280
+  },
+  "233": {
+    "name": "mie ayam",
+    "calories": 240
+  },
+  "234": {
+    "name": "mie goreng",
+    "calories": 260
+  },
+  "235": {
+    "name": "nasi campur",
+    "calories": 250
+  },
+  "236": {
+    "name": "nasi padang",
+    "calories": 270
+  },
+  "237": {
+    "name": "nasi uduk",
+    "calories": 240
+  },
+  "238": {
+    "name": "babi guling",
+    "calories": 320
+  },
+  "239": {
+    "name": "kaya toast",
+    "calories": 280
+  },
+  "240": {
+    "name": "bak kut teh",
+    "calories": 220
+  },
+  "241": {
+    "name": "curry puff",
+    "calories": 300
+  },
+  "242": {
+    "name": "chow mein",
+    "calories": 240
+  },
+  "243": {
+    "name": "zha jiang mian",
+    "calories": 250
+  },
+  "244": {
+    "name": "kung pao chicken",
+    "calories": 260
+  },
+  "245": {
+    "name": "crullers",
+    "calories": 340
+  },
+  "246": {
+    "name": "eggplant with garlic sauce",
+    "calories": 120
+  },
+  "247": {
+    "name": "three cup chicken",
+    "calories": 280
+  },
+  "248": {
+    "name": "bean curd family style",
+    "calories": 150
+  },
+  "249": {
+    "name": "salt & pepper fried shrimp with shell",
+    "calories": 220
+  },
+  "250": {
+    "name": "baked salmon",
+    "calories": 200
+  },
+  "251": {
+    "name": "braised pork meat ball with napa cabbage",
+    "calories": 240
+  },
+  "252": {
+    "name": "winter melon soup",
+    "calories": 80
+  },
+  "253": {
+    "name": "steamed spareribs",
+    "calories": 280
+  },
+  "254": {
+    "name": "chinese pumpkin pie",
+    "calories": 220
+  },
+  "255": {
+    "name": "eight treasure rice",
+    "calories": 250
+  },
+  "256": {
+    "name": "hot & sour soup",
+    "calories": 90
+  }
+}
